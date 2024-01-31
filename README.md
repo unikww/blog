@@ -12,3 +12,5 @@
 ## 2020
 - [详解 JS 错误类型]()
 - [谈一谈格式化工具 Prettier]()
+
+如果你觉得我的博客对您有帮助，可以 [buy me a coffe](https://www.buymeacoffee.com/unike)
