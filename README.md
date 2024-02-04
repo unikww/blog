@@ -16,4 +16,9 @@
 - [详解 JS 错误类型]()
 - [谈一谈格式化工具 Prettier](https://github.com/unikww/blog/issues/1)
 
-如果你觉得我的博客对您有帮助，可以 [buy me a coffe](https://www.buymeacoffee.com/unike)
+
+## 支持
+
+如果您觉得我的博客对您有帮助
+
+<a href="https://www.buymeacoffee.com/unike" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
