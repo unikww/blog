@@ -8,7 +8,7 @@
 
 ## 2023
 - [盘点10个最受欢迎 WebStorm 字体，必有一款适合你!]()
-- [使用VuePress搭建博客网站]()
+- [使用 VuePress 搭建博客网站]()
 - [短小精悍的发布订阅库 mitt]()
 - [Qodana 入门与使用]()
 - [深入浅出 Server-sent events 技术]()
